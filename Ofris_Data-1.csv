@@ -1,0 +1,5 @@
+Year,Region,Species,Estimated Population,Confidence Interval (Lower),Confidence Interval (Upper)
+2023,Ngorongoro Crater,Wildebeest,7000,6500,7500
+2023,Ngorongoro Crater,Zebra,4000,3800,4200
+2023,Ngorongoro Crater,Black Rhino,30,25,35
+2023,Ngorongoro Crater,Lion,65,60,70
